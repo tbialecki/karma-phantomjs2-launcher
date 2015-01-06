@@ -1,6 +1,6 @@
 {
   "name": "karma-phantomjs2-launcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Karma plugin. Launcher for PhantomJS 2. Slightly changed karma-phantomjs-launcher plugin.ß",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "karma-plugin",
     "karma-launcher",
-    "phantomjs"
+    "phantomjs",
+    "phantomjs2"
   ],
   "author": "Alexandr Skackhov <gskachkov@gmail.com>",
   "dependencies": {
@@ -30,6 +31,7 @@
     "grunt-npm": "~0.0.2"
   },
   "contributors": [
+    "Vojta Jina <vojta.jina@gmail.com>",
     "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
     "Huafu Gandon <huafu.gandon@gmail.com>",
     "Sylvain Hamel <sylvainhamel0@gmail.com>",
@@ -40,5 +42,9 @@
     "Rob Barreca <rob.barreca@inmobi.com>",
     "nherzing <nherzing@gmail.com>",
     "sylvain-hamel <sylvainhamel0@gmail.com>"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/gskachkov/karma-phantomjs2-launcher/issues"
+  },
+  "homepage": "https://github.com/gskachkov/karma-phantomjs2-launcher"
 }
