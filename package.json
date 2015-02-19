@@ -18,7 +18,7 @@
   ],
   "author": "Alexandr Skackhov <gskachkov@gmail.com>",
   "dependencies": {
-    "phantomjs2-ext": "^0.0.3"
+    "phantomjs2-ext": "tbialecki/phantomjs2"
   },
   "peerDependencies": {
     "karma": ">=0.9"
